@@ -1,25 +1,10 @@
-# primerproyecto
-
-Necesitas vite
-
-## Recommended IDE Setup
-
-
-
-## Project Setup
-
-```sh
-npm install
+TALLER GIT 
+APRENDERAS MUCHOO
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+GIT 
+APRENDERAS MUCHOO
+GIT 
+APRENDERAS MUCHOO
+GIT 
+APRENDERAS MUCHOO
